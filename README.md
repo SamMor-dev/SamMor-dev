@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Sam (19yo)
+# 👋 Olá, eu sou o Sam Moreno(19yo)
 
 > **Desenvolvedor de Sistemas** focado em engenharia de baixo nível, performance bruta e código limpo.
 
