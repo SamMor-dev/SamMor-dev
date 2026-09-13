@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Stack & Tecnologias
-* **Linguagens** C-Sharp.
+* **Linguagens** Bash.
 * **Ambientes:** Linux Embarcado, Linux, UNIX de linha de frente, FreeBSD, Sistemas POSIX.
 * **Foco:** Utilitários de alta eficiência, ecossistemas para handhelds, gerenciamento de memória e arquitetura de sistemas.
 
